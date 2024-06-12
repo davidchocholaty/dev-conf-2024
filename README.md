@@ -3,8 +3,8 @@ This repository hosts the presentation files and source codes for the DevConf 20
 
 ## Presentation
 
-- [Source Files](https://github.com/davidchocholaty/dev-conf-2024/presentation_files/src/devconf_2024)
-- [PDF File](https://github.com/davidchocholaty/dev-conf-2024/presentation_files/presentation.pdf)
+- [Source Files](https://github.com/davidchocholaty/dev-conf-2024/blob/main/presentation_files/src/devconf_2024)
+- [PDF File](https://github.com/davidchocholaty/dev-conf-2024/blob/main/presentation_files/presentation.pdf)
 
 ## Useful Links
 
@@ -21,6 +21,6 @@ The table below provides source codes categorized by topic:
 
 | Topic         | CPP  | Rust |
 | ---           | ---   | ---     |
-| Memory Safety | [memory_safety.cpp](https://github.com/davidchocholaty/dev-conf-2024/code_examples/memory_safety.cpp) | [memory_safety.rs](https://github.com/davidchocholaty/dev-conf-2024/code_examples/memory_safety.rs) |
-| Type System   | [type_system.cpp](https://github.com/davidchocholaty/dev-conf-2024/code_examples/type_system.cpp) | [type_system.rs](https://github.com/davidchocholaty/dev-conf-2024/code_examples/type_system.rs) |
-| Unsafe Rust   | [unsafe.cpp](https://github.com/davidchocholaty/dev-conf-2024/code_examples/unsafe.cpp) | [unsafe.rs](https://github.com/davidchocholaty/dev-conf-2024/code_examples/unsafe.rs) |
+| Memory Safety | [memory_safety.cpp](https://github.com/davidchocholaty/dev-conf-2024/blob/main/code_examples/memory_safety.cpp) | [memory_safety.rs](https://github.com/davidchocholaty/dev-conf-2024/blob/main/code_examples/memory_safety.rs) |
+| Type System   | [type_system.cpp](https://github.com/davidchocholaty/dev-conf-2024/blob/main/code_examples/type_system.cpp) | [type_system.rs](https://github.com/davidchocholaty/dev-conf-2024/blob/main/code_examples/type_system.rs) |
+| Unsafe Rust   | [unsafe.cpp](https://github.com/davidchocholaty/dev-conf-2024/blob/main/code_examples/unsafe.cpp) | [unsafe.rs](https://github.com/davidchocholaty/dev-conf-2024/blob/main/code_examples/unsafe.rs) |
