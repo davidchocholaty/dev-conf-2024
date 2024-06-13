@@ -3,8 +3,8 @@ This repository hosts the presentation files and source codes for the DevConf 20
 
 ## Presentation
 
-- [Source Files](https://github.com/davidchocholaty/dev-conf-2024/blob/main/presentation_files/src/devconf_2024)
-- [PDF File](https://github.com/davidchocholaty/dev-conf-2024/blob/main/presentation_files/presentation.pdf)
+- Source Files: [4:3](https://github.com/davidchocholaty/dev-conf-2024/blob/main/presentation_files/src/devconf_2024/4_3), [16:9](https://github.com/davidchocholaty/dev-conf-2024/blob/main/presentation_files/src/devconf_2024/16_9)
+- PDF File: [4:3](https://github.com/davidchocholaty/dev-conf-2024/blob/main/presentation_files/presentation_4_3.pdf), [16:9](https://github.com/davidchocholaty/dev-conf-2024/blob/main/presentation_files/presentation_16_9.pdf)
 
 ## Useful Links
 
