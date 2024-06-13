@@ -1,5 +1,5 @@
 void addBeer(std::vector<int>& beers) {
-    beers.push_back(10);  // Potential buffer overflow if vector was manually managed!
+    beers.push_back(0);  // Potential buffer overflow if vector was manually managed!
 }
 
 int main() {
@@ -8,7 +8,7 @@ int main() {
     std::cout << beerFridge[0];  // Use-after-free.
 
     std::vector<int> beerCollection(5);
-    addBeer(beerCollection); // Add 10 more beers.
+    addBeer(beerCollection); // Add another beer.
     
     int* lostBeer = new int(42); // A lovely special beer.
     // Forgot to delete lostBeer, potential memory leak here!

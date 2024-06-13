@@ -1,5 +1,5 @@
 fn add_beer(beers: &mut Vec<i32>) {
-    beers.push(10);  // Safe, Rust's Vec handles resizing.
+    beers.push(0);  // Safe, Rust's Vec handles resizing.
 }
 
 fn main() {
